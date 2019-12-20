@@ -111,3 +111,6 @@ logs/
 
 # vim swap files
 *.swp
+
+# Paper
+graphicCNN.pdf
