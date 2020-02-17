@@ -1,4 +1,4 @@
-on Google Colab.
+on Google Colab with Python 2.7 first for visualisation.
 
 # GraphCMR
 Code repository for the paper:  
