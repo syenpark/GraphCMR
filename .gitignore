@@ -114,3 +114,7 @@ logs/
 
 # Paper
 doc/
+
+# pretrained models
+data/*.pkl
+data/models
