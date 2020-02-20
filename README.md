@@ -1,4 +1,4 @@
-on Google Colab with Python 2.7 first for visualisation.
+[Google Colab with Python 2.7 for opendr](https://github.com/syenpark/GraphCMR/blob/master/Colab-py2.ipynb) is for visualisation.
 
 # GraphCMR
 Code repository for the paper:  
